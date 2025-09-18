@@ -5,8 +5,8 @@ import yfinance as yf
 import requests
 
 # Telegram credentials (set in Railway/Render as Environment Variables)
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
+BOT_TOKEN = os.getenv("8345912007:AAHlblKgKfj5gXgHNCbf2qt9EFMFUVIpxh8")
+CHAT_ID = os.getenv("795977824")
 
 ASSETS = {
     "Gold": "GC=F",
